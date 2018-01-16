@@ -31,5 +31,7 @@ jobs:
             - ./vendor/bundle
           key: v1-dependencies-{{ checksum "Gemfile.lock" }}
 
-      # Run markdown lint
-      - run: bundle exec mdl *.md
+      - run:
+          name: run test
+          command: |
+            bundle exec mdl *.md
