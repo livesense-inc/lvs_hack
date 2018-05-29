@@ -7,12 +7,15 @@
 ## :construction: 事前準備
 
 1. 機運を高める
-1. 実施要項を準備する
-    - 情報共有 (ストック)
+1. 参加者の連絡手段を決める
+    - ストック情報
       - Qiita: team
       - Confluence
-    - 情報共有 (フロー)
+      - Google Docs
+    - チャット
       - Slack
+      - facebook Messenger
+1. 実施要項を準備する
     - 実施形式
       - チーム開発 or 個人開発
       - 仕事 or プライベート
